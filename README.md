@@ -40,9 +40,9 @@ I like building tools that remove manual work: full-stack web apps, data cleanup
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Content Analytics Platform**](https://github.com/Muhafud/REPO-NAME) | Scores written content for readability, sentiment, and keyword density, with live-updating dashboards | React, Node.js, Express, MongoDB, Chart.js, WebSockets |
-| [**NetSweep Analyzer**](https://github.com/Muhafud/REPO-NAME) | Scans IP ranges with Nmap, flags high-risk services, and exports CSV reports with heatmaps | Python, Nmap, Matplotlib |
-| [**Home Health Care Hiring Platform**](https://github.com/Muhafud/REPO-NAME) | Full-stack job board with an admin dashboard for posting roles and reviewing applicants | React, Node.js, MongoDB Atlas, AWS EC2 |
+| [**AI Content Analytics Platform**]([https://github.com/Muhafud/REPO-NAME](https://github.com/Muhafud/content-analytics-platform)) | Scores written content for readability, sentiment, and keyword density, with live-updating dashboards | React, Node.js, Express, MongoDB, Chart.js, WebSockets |
+| [**NetSweep Analyzer**]([https://github.com/Muhafud/REPO-NAME](https://github.com/Muhafud/cyberwellness-hub)) | Scans IP ranges with Nmap, flags high-risk services, and exports CSV reports with heatmaps | Python, Nmap, Matplotlib |
+| [**Home Health Care Hiring Platform**]([https://github.com/Muhafud/REPO-NAME](https://github.com/Muhafud/toledo-home-healthcare)) | Full-stack job board with an admin dashboard for posting roles and reviewing applicants | React, Node.js, MongoDB Atlas, AWS EC2 |
 
 ---
 
